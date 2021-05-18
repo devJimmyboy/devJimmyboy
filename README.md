@@ -13,7 +13,7 @@
 - [Medium.com](https://medium.com), a website where developers everywhere can publish articles about any subject.
 - [CodePen.io](https://codepen.io/trending) or [CodeSandbox](https://codesandbox.io/), small snippets of webcode to gain inspiration or to share your own work.
 - [React](https://reactjs.org/) or [Vue](https://vuejs.org/), two frameworks that both are based around components. I started with React, since vanilla Javascript can be too much to bear sometimes. 
-
+------
 <div align="center">
   <h3>One Final Tip:</h3>
   <h1><strong>READ THE DOCUMENTATION</strong></h1>

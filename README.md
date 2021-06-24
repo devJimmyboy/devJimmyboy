@@ -1,4 +1,11 @@
-## Hey there, I'm <span style="text-color:blue">Jimmy</span>. 👋
+## Hey there, I'm Jimmy. 👋
+
+![GitHub followers](https://img.shields.io/github/followers/devJimmyboy?style=social) 
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/jimmyboy?style=social) 
+![Twitch Status](https://img.shields.io/twitch/status/devJimmyboy?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/devJimmyboy?style=social) 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1zCi0FHlVlpXm0gbxh4sBw?style=social)  
+![Discord](https://img.shields.io/discord/707360979033260115?label=Discord)
 
 ### I have **several** projects I'm working on. I can't seem to finish a single one!
   - [Team Manager](https://github.com/devJimmyboy/Team-Manager)
@@ -19,7 +26,7 @@
   <h1><strong>READ THE DOCUMENTATION</strong></h1>
 </div>
   
-  ###### <div align="center">yes, theses are my tabs currently open as I am writing this.</div>
+  ###### <div align="center">yes, these are my tabs currently open as I am writing this.</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/15599091/118597252-0e5c0b00-b772-11eb-838e-44b1e4cd13d4.png"/>

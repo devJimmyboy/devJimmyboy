@@ -1,14 +1,14 @@
-## Hey there, I'm Jimmy. 👋
+# Hey there, I'm Jimmy. 👋
 
-![GitHub followers](https://img.shields.io/github/followers/devJimmyboy?style=social) 
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/jimmyboy?style=social) 
-![Twitch Status](https://img.shields.io/twitch/status/devJimmyboy?style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/devJimmyboy?style=social) 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1zCi0FHlVlpXm0gbxh4sBw?style=social)  
-![Discord](https://img.shields.io/discord/707360979033260115?label=Discord)
+[![GitHub followers](https://img.shields.io/github/followers/devJimmyboy?style=social)](https://github.com/devJimmyboy/)
+[![Twitch Status](https://img.shields.io/twitch/status/devJimmyboy?style=social)](https://www.twitch.tv/devJimmyboy)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1zCi0FHlVlpXm0gbxh4sBw?style=social)](https://www.youtube.com/channel/UC1zCi0FHlVlpXm0gbxh4sBw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/devJimmyboy?style=social)](https://twitter.com/devJimmyboy)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/jimmyboy?style=social)](https://www.reddit.com/r/Jimmyboy/)
+[![Discord](https://img.shields.io/discord/707360979033260115?label=Discord)](https://discord.gg/FeVAy2fJSq)
 
 ### I have **several** projects I'm working on. I can't seem to finish a single one!
-  - [Team Manager](https://github.com/devJimmyboy/Team-Manager)
+  - [Team Manager](https://github.com/devJimmyboy/Team-Manager), a discord bot for automatically handling teams/groups in a folder. eg 
   - A [Twitch Chat App](https://github.com/devJimmyboy/twitch-chat-app) that may not get finished since I just wanted to check out Electron.
   - A Twitch Extension called [Polls Plus](https://github.com/devJimmyboy/) that served as my first real endeavour into web development.
     #### Private/Non-Github Projects (*for now*):

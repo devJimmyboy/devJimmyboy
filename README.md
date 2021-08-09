@@ -7,7 +7,8 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/jimmyboy?style=social)](https://www.reddit.com/r/Jimmyboy/)
 [![Discord](https://img.shields.io/discord/707360979033260115?label=Discord)](https://discord.gg/FeVAy2fJSq)
 
-I'm Currently Working on:
+**I'm Currently Working on:**
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devjimmyboy&repo=stream-overlay&show_owner=true)](https://github.com/devjimmyboy/stream-overlay)
 
 ### I have **several** projects I'm working on. I can't seem to finish a single one!

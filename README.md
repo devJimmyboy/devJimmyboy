@@ -9,7 +9,7 @@
 
 **I'm Currently Working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devjimmyboy&repo=nodecg-bundlesy&show_owner=true)](https://github.com/devjimmyboy/nodecg-bundles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devjimmyboy&repo=nodecg-bundles&show_owner=true)](https://github.com/devjimmyboy/nodecg-bundles)
 
 ### I have **several** projects I'm working on. I can't seem to finish a single one!
   - [Team Manager](https://github.com/devJimmyboy/Team-Manager), a discord bot for automatically handling teams/groups in a folder. eg 

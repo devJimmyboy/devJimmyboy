@@ -12,10 +12,17 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devjimmyboy&repo=nodecg-bundles&show_owner=true)](https://github.com/devjimmyboy/nodecg-bundles)
 
 ### I have **several** projects I'm working on. I can't seem to finish a single one!
+  - [My Twitch Stream!](https://twitch.tv/devJimmyboy) - As of right now I really enjoy adding cool new features into my stream through overlays. I wouldn't be able to have such a custom experience without the amazing framework that is [NodeCG](https://github.com/nodecg/nodecg), a great solution for custom overlays and stream graphics (Like having Stream(Elements/Labs) on your personal computer).
+  - An All-in-one [Streamer Tool](https://github.com/jimmyboy-dev/5Head) that hosts a Customizable [NodeCG](https://nodecg.dev/) Backend with tabs for **Music**, **Twitch Dashboard**, **Logs from NodeCG**, and an embedded view for the **NodeCG Dashboard**. It's something I'm actually getting through at a decent pace and will use it constantly for my streams (NodeCG is a pain to get running since you have to cd into the directory and run `node index.js` to start it, it'll be nice to have a program that does that all on startup.) 
+
+### On the Backburner for now:
   - [Team Manager](https://github.com/devJimmyboy/Team-Manager), a discord bot for automatically handling teams/groups in a folder. eg 
-  - A [Twitch Chat App](https://github.com/devJimmyboy/twitch-chat-app) that may not get finished since I just wanted to check out Electron.
+  - [For the Boys](https://fortheboys.io), a project I haven't worked on recently, but it was by far my most worked on. I started it as a summer project, and it was meant to be a place for groups of friends to play various online games. I found production-quality workflows immensely difficult to get fully flushed out. I'll need more backend expertise before I come back to this. Firebase is a nice tool, but the moment you want to add something it doesn't do, it gets very challenging.
+
+### Projects I've (most likely) given up on, yet learned so much:
   - A Twitch Extension called [Polls Plus](https://github.com/devJimmyboy/) that served as my first real endeavour into web development.
-    #### Private/Non-Github Projects (*for now*):
+  - A [Twitch Chat App](https://github.com/devJimmyboy/twitch-chat-app) that may not get finished since I just wanted to check out Electron.
+#### Private/Non-Github Projects (*for now*):
   - Twitch streaming "suite" with a control panel and many chat interactions
     - Also making a personal overlay through the power of **Unity WebGL** and **OBS Browser Sources** on my [Twitch Channel](https://www.twitch.tv/devJimmyboy).
   - Chat Bot to link communication between Groupme chats and Discord. Wanting to expand on this, too, like implementing Slack

@@ -10,24 +10,24 @@
   <a href="https://github.com/devJimmyboy/">
     <img src="https://img.shields.io/github/followers/devJimmyboy?style=social" />
   </a>
-  <a href="https://www.twitch.tv/devJimmyboy">
+<!--   <a href="https://www.twitch.tv/devJimmyboy">
     <img src="https://img.shields.io/twitch/status/devJimmyboy?style=social" />
-  </a>
+  </a> -->
   <a href="https://www.youtube.com/channel/UC1zCi0FHlVlpXm0gbxh4sBw">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1zCi0FHlVlpXm0gbxh4sBw?style=social" />
   </a>
-  <a href="https://twitter.com/devJimmyboy">
+<!--   <a href="https://twitter.com/devJimmyboy">
     <img src="https://img.shields.io/twitter/follow/devJimmyboy?style=social" />
-  </a>
-  <a href="https://www.reddit.com/r/Jimmyboy/">
+  </a> -->
+<!--   <a href="https://www.reddit.com/r/Jimmyboy/">
     <img src="https://img.shields.io/reddit/subreddit-subscribers/jimmyboy?style=social" />
-  </a>
+  </a> -->
   <a href="https://discord.gg/FeVAy2fJSq">
     <img src="https://img.shields.io/discord/707360979033260115?label=Discord" />
   </a>
 </p>
 
-<details>
+<details open>
   <summary><h3>🔭 My Current Projects</h3></summary>
 <br>
   <ul>
@@ -35,7 +35,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><h3>Developer Resources I Recommend</h3></summary>
 <br>
   <ul>

@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/discord/707360979033260115?label=Discord" />
   </a>
 </p>
-
+<!--
 <details open>
   <summary><h3>🔭 My Current Projects</h3></summary>
 <br>
@@ -34,7 +34,6 @@
     <li><a href="https://twitch.tv/devJimmyboy">My Twitch Stream!</a> - As of right now I really enjoy adding cool new features into my stream through overlays. I wouldn't be able to have such a custom experience without the amazing framework that is <a href="https://github.com/nodecg/nodecg">NodeCG</a>, a great solution for custom overlays and stream graphics (Like having Stream(Elements/Labs) on your personal computer).</li>
   </ul>
 </details>
-
 <details open>
   <summary><h3>Developer Resources I Recommend</h3></summary>
 <br>
@@ -51,7 +50,7 @@
   <h3>And lastly, a Tip:</h3>
   <h3 ><strong style="color: red;">READ THE DOCUMENTATION</strong></h3>
 </div>
-
+-->
 
 <!--
 **devJimmyboy/devJimmyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

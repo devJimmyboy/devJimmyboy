@@ -26,6 +26,12 @@
     <img src="https://img.shields.io/discord/707360979033260115?label=Discord" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.last.fm/user/Jimmydv6">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=jimmydv6" />
+  </a>
+</p>
+
 <!--
 <details open>
   <summary><h3>🔭 My Current Projects</h3></summary>
